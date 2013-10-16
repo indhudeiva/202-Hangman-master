@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WordToGuess()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=alphabet\ w
+comment2.target=void\ setAlphabetGuessed(java.lang.String,\ greenfoot.World)
+comment3.params=alphabet\ arr\ size
+comment3.target=void\ placeGuessedAlphabet(java.lang.String,\ int[],\ int)
+comment4.params=alphabet
+comment4.target=void\ checkForLetterInString(java.lang.String)
+comment5.params=
+comment5.target=void\ calculateLives()
+numComments=6

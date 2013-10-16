@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WordList()
+comment1.params=category
+comment1.target=WordList(java.lang.String)
+comment2.params=
+comment2.target=int\ getRandomNo()
+comment3.params=
+comment3.target=java.sql.Connection\ getConnect()
+comment4.params=category
+comment4.target=java.lang.String\ getWordFromDB(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getWord()
+numComments=6
